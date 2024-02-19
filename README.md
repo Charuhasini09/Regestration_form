@@ -26,7 +26,7 @@ You can check out a live demo of the project
 **📝 Usage**
 Simply fill out the registration form with your details and submit.
 
- **📸 Screenshots**
+ **📸 Screenshot**
 ![image](https://github.com/Charuhasini09/Regestration_form/assets/93981456/6a60f2c8-66a8-4168-8fd0-3ceeb6ea6905)
 
 
